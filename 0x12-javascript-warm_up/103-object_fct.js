@@ -6,11 +6,7 @@ let myObject = {
 console.log(myObject);
 
 myObject.incr = function () {
-<<<<<<< HEAD
   this.value++;
-=======
-  return this.value++;
->>>>>>> refs/remotes/origin/main
 };
 
 myObject.incr();

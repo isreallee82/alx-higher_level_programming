@@ -1,9 +1,5 @@
 #!/usr/bin/node
-<<<<<<< HEAD
 const myObject = {
-=======
-let myObject = {
->>>>>>> refs/remotes/origin/main
   type: 'object',
   value: 12
 };

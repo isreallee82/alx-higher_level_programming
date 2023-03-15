@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 0x12-javascript-warm_up
 In this project, I learnt:
 - How to run a JavaScript script
@@ -16,6 +15,3 @@ In this project, I learnt:
 - What are the arithmetic operators and how to use them
 - How to manipulate dictionary
 - How to import a file
-=======
-# 0x11. Javascript - Warm up
->>>>>>> refs/remotes/origin/main
